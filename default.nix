@@ -18,7 +18,7 @@ in
       rev = "2bd85292387efe6c2587848264ed9778fe924c07";
       hash = "sha256-AkSEOaypQ0bRESGcYUIMWyMXYZg6FNXUlJkdYU72bbU=";
     };
-    cargoHash = "sha256-0eXji+mwajDlkm917b8T4EO+y4BkC/am583BHxTRUO4=";
+    cargoHash = "sha256-lUNiK+t11uC2nCfctVwNtHFNSEb8zWj1HgDfQkdXyoY=";
     cargoPatches = [
       # https://github.com/rust-lang/regex/issues/1231#issuecomment-2435424560
       ./regex-cargo.patch
